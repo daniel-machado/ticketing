@@ -1,6 +1,6 @@
 # Ticketing
 
-[![CI](https://github.com/<owner>/<repo>/actions/workflows/ci.yml/badge.svg)](https://github.com/<owner>/<repo>/actions/workflows/ci.yml)
+[![CI](https://github.com/daniel-machado/ticketing/actions/workflows/ci.yml/badge.svg)](https://github.com/daniel-machado/ticketing/actions/workflows/ci.yml)
 
 Backend for a ticket sales platform. Event organizers create events, buyers reserve and pay for tickets, and staff check tickets in at the door.
 
